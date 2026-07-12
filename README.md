@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0A0A0A)](https://www.linkedin.com/in/prathamesh-pimpale-0b079a378/)
 [![Portfolio](https://img.shields.io/badge/-%20Portfolio-C084FC?style=for-the-badge&logo=google-chrome&logoColor=0A0A0A)](https://prathameshpimpale-portfolio.vercel.app/)
 [![YouTube](https://img.shields.io/badge/-%20YouTube-FF4444?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PrathameshTechCode)
-[![GitHub](https://img.shields.io/badge/-%20GitHub-00F5FF?style=for-the-badge&logo=github&logoColor=0A0A0A)](https://github.com/prathameshpimpale07-byte)
 [![LeetCode](https://img.shields.io/badge/-%20LeetCode-F0A500?style=for-the-badge&logo=leetcode&logoColor=0A0A0A)](https://leetcode.com/u/Prathameshpimaple/)
 
 <br/>
